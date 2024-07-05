@@ -1,0 +1,30 @@
+* Home screen -> image on left | owner: (blue)
+                               | Language (red)
+                               | Repo Name heading
+                               |
+                               | view on github text
+                               |
+                               | github Link [Clone Btn]
+
+
+
+* User        -> image on left | username
+                               |
+                               | Name
+                               | 
+                               | State
+                               | Followers: Following: 
+                               |
+                               | View on Github
+                               hr
+
+* Search ->        Searches User
+            Image | username
+                  | 
+                  | Name
+                  |
+                  | State
+                  | Followers Following
+                  | view on Github
+                  hr
+                  Intro about user
