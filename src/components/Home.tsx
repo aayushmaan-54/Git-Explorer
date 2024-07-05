@@ -12,7 +12,7 @@ const Home: React.FC = () => {
     if (status === STATUSES.IDLE) {
       dispatch(fetchRepositories());
     }
-  });
+  }, []);
 
   if (status === STATUSES.LOADING) {
     return <div>Loading...</div>;
